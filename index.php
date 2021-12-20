@@ -16,10 +16,7 @@ require 'db.php';
     <header class="header">
         <div class="container">
             <div class="header_body">
-                <a href="" class="header_logo">
-                    <img src="Logo/logo.svg" alt="">
-                </a>
-                <div class="header_burger">
+                             <div class="header_burger">
                     <span></span>
                 </div>
                 <nav class="header_menu">
